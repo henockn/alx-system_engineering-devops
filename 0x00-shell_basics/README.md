@@ -1,2 +1,2 @@
 shell basics
-0 - prints current working directory
+iii0 - prints current working directory
